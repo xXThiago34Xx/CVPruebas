@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xxthi\\source\\repos\\Ejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92FF140E-F1D8-4CDF-884E-0B7217D6EAEF}|Ejemplo\\Ejemplo.vcxproj|C:\\Users\\xxthi\\source\\repos\\Ejemplo\\Ejemplo\\GPTAZO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92FF140E-F1D8-4CDF-884E-0B7217D6EAEF}|Ejemplo\\Ejemplo.vcxproj|solutionrelative:Ejemplo\\GPTAZO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FF140E-F1D8-4CDF-884E-0B7217D6EAEF}|Ejemplo\\Ejemplo.vcxproj|C:\\Users\\xxthi\\source\\repos\\Ejemplo\\Ejemplo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92FF140E-F1D8-4CDF-884E-0B7217D6EAEF}|Ejemplo\\Ejemplo.vcxproj|solutionrelative:Ejemplo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GPTAZO.cpp",
+              "DocumentMoniker": "C:\\Users\\xxthi\\source\\repos\\Ejemplo\\Ejemplo\\GPTAZO.cpp",
+              "RelativeDocumentMoniker": "Ejemplo\\GPTAZO.cpp",
+              "ToolTip": "C:\\Users\\xxthi\\source\\repos\\Ejemplo\\Ejemplo\\GPTAZO.cpp",
+              "RelativeToolTip": "Ejemplo\\GPTAZO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T02:10:55.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\xxthi\\source\\repos\\Ejemplo\\Ejemplo\\Main.cpp",
+              "RelativeDocumentMoniker": "Ejemplo\\Main.cpp",
+              "ToolTip": "C:\\Users\\xxthi\\source\\repos\\Ejemplo\\Ejemplo\\Main.cpp",
+              "RelativeToolTip": "Ejemplo\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T02:03:12.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

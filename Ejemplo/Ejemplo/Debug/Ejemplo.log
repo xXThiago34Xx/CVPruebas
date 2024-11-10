@@ -1,0 +1,3 @@
+﻿  GPTAZO.cpp
+Main.obj : error LNK2005: ya se definió "void __cdecl display(void)" (?display@@YAXXZ) en GPTAZO.obj
+C:\Users\xxthi\source\repos\Ejemplo\Debug\Ejemplo.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
